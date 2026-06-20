@@ -1,0 +1,17 @@
+# 公開リポジトリに含めない内部資料（このフォルダ＝リポジトリのルート）
+# アプリ本体（index.html, styles.css, app.js, manifest.json, sw.js, index.json, icon.svg, digests/）だけを公開する。
+
+# 企画・進行用ドキュメント
+計画書.md
+指示書.md
+設定.md
+
+# 作業ファイル
+handoffs/
+mockups/
+
+# Claude Code 設定
+.claude/
+
+# OS / エディタ
+.DS_Store

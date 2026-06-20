@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">AIニュース</title>
+  <rect width="512" height="512" rx="112" fill="#17213b"/>
+  <rect x="34" y="34" width="444" height="444" rx="88" fill="none" stroke="#7c9eff" stroke-width="12"/>
+  <text x="256" y="315" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="190" font-weight="750" text-anchor="middle">AI</text>
+</svg>
