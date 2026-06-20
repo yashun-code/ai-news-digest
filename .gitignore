@@ -15,3 +15,6 @@ mockups/
 
 # OS / エディタ
 .DS_Store
+
+# アイコン元画像（大きいので公開リポジトリには含めない。生成済みicon-180/192/512.pngを公開）
+icon-concept-news-editorial.png
