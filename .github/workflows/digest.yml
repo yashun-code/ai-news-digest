@@ -1,0 +1,45 @@
+name: ダイジェスト自動生成
+
+# 3日に1回 07:00 JST（= 前日 22:00 UTC）に自動実行。
+# 手動実行（Actions画面の Run workflow ボタン）も可能。
+on:
+  schedule:
+    - cron: '0 22 */3 * *'
+  workflow_dispatch:
+
+# 生成したダイジェストをリポジトリにコミットするための書き込み権限
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリを取得
+        uses: actions/checkout@v4
+
+      - name: Python をセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 依存をインストール
+        run: pip install anthropic
+
+      - name: ダイジェストを生成
+        env:
+          # APIキーは GitHub Secrets から渡す（コードには絶対に書かない）
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_digest.py
+
+      - name: 変更があればコミット＆プッシュ
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add digests/ index.json
+            git commit -m "ダイジェスト自動更新 $(date +%Y-%m-%d)"
+            git push
+          else
+            echo "変更なし。コミットをスキップします。"
+          fi

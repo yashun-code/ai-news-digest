@@ -270,7 +270,7 @@
       <div class="mrow last"><span class="mi" aria-hidden="true">🔠</span><span>文字サイズ</span><span class="ma">標準</span></div>
       <div class="msec">このアプリについて</div>
       <div class="mrow solo"><span class="mi" aria-hidden="true">ℹ️</span><div class="col"><span>AIニュースダイジェスト</span><span class="desc">英語と専門用語を読まずに、今週の動きがわかるアプリ</span></div></div>
-      <div class="caption"><span aria-hidden="true">📅</span><span>配信は毎週土曜の朝。ホーム画面から最新のダイジェストを確認できます。</span></div>`;
+      <div class="caption"><span aria-hidden="true">📅</span><span>3日に1回 自動で更新。ホーム画面から最新のダイジェストを確認できます。</span></div>`;
   }
 
   function route() {
