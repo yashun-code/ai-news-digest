@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-06-23",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Code機能強化／Codex新機能Record & Replay／Samsung大規模導入／AIエージェント自律化／Grok拡張機能",
+      "file": "digests/2026-06-23.md"
+    },
+    {
       "date": "2026-06-20",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Design機能強化／Codexに画面操作自動化機能／ChatGPT市場シェア50%割れ",
