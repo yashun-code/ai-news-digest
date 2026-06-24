@@ -4,7 +4,7 @@ name: ダイジェスト自動生成
 # 手動実行（Actions画面の Run workflow ボタン）も可能。
 on:
   schedule:
-    - cron: '0 22 * * 1,3,5'
+    - cron: '0 22 * * 0,2,4'
   workflow_dispatch:
 
 # 生成したダイジェストをリポジトリにコミットするための書き込み権限
