@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-06-26",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude競争激化／Gemini画面操作機能／Codex全社導入／AIエージェント実装加速／Grok安全性問題",
+      "file": "digests/2026-06-26.md"
+    },
+    {
       "date": "2026-06-24",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Tag（Slack連携）／Codex「Record & Replay」／Samsung大規模導入／AIエージェント自律化",
