@@ -1,4 +1,4 @@
-const CACHE = 'ai-news-v4';
+const CACHE = 'ai-news-v5';
 const SHELL = [
   './',
   './index.html',
@@ -46,7 +46,7 @@ async function networkFirst(request) {
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
   if (event.request.method !== 'GET' || url.origin !== self.location.origin) return;
-  const isData = url.pathname.endsWith('/index.json') || /\/digests\/[^/]+\.md$/.test(url.pathname);
+  const isData = url.pathname.endsWith('/index.json') || url.pathname.endsWith('/tips_index.json') || /\/digests\/[^/]+\.md$/.test(url.pathname) || /\/tips\/[^/]+\.md$/.test(url.pathname);
   if (isData) {
     event.respondWith(networkFirst(event.request));
   } else if (event.request.mode === 'navigate') {

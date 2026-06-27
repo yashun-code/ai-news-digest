@@ -77,6 +77,17 @@ button:focus-visible { outline:3px solid #b8c8ff; outline-offset:2px; }
 .mrow .ma { margin-left:auto; color:var(--faint); font-size:13px; flex:0 0 auto; }
 .soon { margin-left:auto; font-size:10px; background:var(--accent-d); color:#cdd9ff; border-radius:20px; padding:2px 8px; flex:0 0 auto; }
 .caption { font-size:12px; color:var(--faint); line-height:1.6; margin:10px 4px 0; display:flex; gap:6px; }
+.lesson-wrap { background:var(--card2); border:1px solid var(--accent-d); border-radius:18px; padding:14px; margin-bottom:18px; }
+.lesson-kicker { color:var(--accent); font-size:12px; font-weight:700; letter-spacing:.08em; margin:0 0 8px; }
+.lesson-meta { display:flex; gap:7px; margin:0 0 10px; }
+.pill,.tag { display:inline-flex; align-items:center; border-radius:20px; font-size:11px; font-weight:700; line-height:1; }
+.pill { background:var(--accent-d); color:#cdd9ff; padding:6px 9px; }
+.tag { background:var(--green-bg); color:var(--green); padding:5px 8px; margin-bottom:8px; }
+.lesson-hero { background:var(--card); border:1px solid var(--border); border-radius:14px; padding:15px; }
+.lesson-hero h2,.tip-card h2 { margin:0 0 8px; font-size:16px; line-height:1.45; }
+.tip-heading { display:flex; flex-direction:column; align-items:flex-start; }
+.tip-card { padding:14px 15px; }
+.tips-heading { color:var(--faint); font-size:12px; font-weight:600; margin:2px 2px 8px; }
 .error-box { color:var(--sub); text-align:center; padding:34px 18px; line-height:1.7; background:var(--card); border:1px solid var(--border); border-radius:16px; }
 .retry { margin-top:16px; border:0; border-radius:10px; background:var(--accent); color:#0b1020; padding:11px 18px; font-weight:700; cursor:pointer; }
 .toast { position:fixed; z-index:20; left:50%; bottom:calc(80px + env(safe-area-inset-bottom)); transform:translateX(-50%) translateY(20px); background:#e8eaed; color:#0b1020; font-size:12.5px; font-weight:600; padding:10px 16px; border-radius:14px; opacity:0; transition:.25s; pointer-events:none; width:max-content; max-width:min(86%,480px); text-align:center; line-height:1.5; }

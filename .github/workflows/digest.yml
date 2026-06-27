@@ -35,12 +35,18 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/generate_digest.py
 
+      - name: 使い方コンテンツを生成
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_tips.py
+
       - name: 変更があればコミット＆プッシュ
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
-            git add digests/ index.json
+            git add digests/ index.json tips/ tips_index.json
             git commit -m "ダイジェスト自動更新 $(date +%Y-%m-%d)"
             git push
           else
