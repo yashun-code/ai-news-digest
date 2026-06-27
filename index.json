@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-06-27",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Tag / GPT-5.6 / Gemini教育AI / AIエージェント / Grok規制",
+      "file": "digests/2026-06-27.md"
+    },
+    {
       "date": "2026-06-26",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude競争激化／Gemini画面操作機能／Codex全社導入／AIエージェント実装加速／Grok安全性問題",

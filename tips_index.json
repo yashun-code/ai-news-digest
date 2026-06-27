@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-06-27",
+      "title": "Claude Codeの指示書を作ろう",
+      "theme": "MEMORY・CLAUDE.md",
+      "summary": "AIに「やり方」を教えるCLAUDE.mdファイルの基本と実践",
+      "file": "tips/2026-06-27.md"
+    },
+    {
       "date": "2026-06-26",
       "title": "使い方",
       "theme": "スキル（Skills）で手順を覚えさせる",
