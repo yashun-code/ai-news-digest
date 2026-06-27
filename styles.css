@@ -8,7 +8,7 @@
 html { min-height:100%; background:var(--bg); }
 body {
   min-height:100%; margin:0; background:var(--bg); color:var(--text);
-  font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;
+  font-family:"Roboto","Noto Sans JP",-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;
 }
 button { font:inherit; }
 button:focus-visible { outline:3px solid #b8c8ff; outline-offset:2px; }
@@ -95,3 +95,4 @@ button:focus-visible { outline:3px solid #b8c8ff; outline-offset:2px; }
 .toast.fail { background:#f0a35e; }
 @media (min-width:700px) { .app-shell { border-left:1px solid var(--border); border-right:1px solid var(--border); } }
 @media (prefers-reduced-motion:reduce) { .toast,.btn.copy { transition:none; } }
+.btn-install { background:var(--accent); color:#fff; border:none; border-radius:8px; padding:7px 14px; font-size:13px; font-weight:600; cursor:pointer; white-space:nowrap; }

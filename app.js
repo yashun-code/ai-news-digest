@@ -8,6 +8,17 @@
   const navButtons = [...document.querySelectorAll('.nav button')];
   const state = { index: null, digests: new Map(), tipsIndex: null, tips: new Map(), toastTimer: null };
 
+  let deferredInstallPrompt = null;
+  window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    deferredInstallPrompt = e;
+    if (location.hash === '#menu') renderMenu();
+  });
+  window.addEventListener('appinstalled', () => {
+    deferredInstallPrompt = null;
+    if (location.hash === '#menu') renderMenu();
+  });
+
   const escapeHtml = (value = '') => String(value).replace(/[&<>"']/g, (char) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
   })[char]);
@@ -357,16 +368,30 @@
   function renderMenu() {
     setCurrentNav('menu');
     setHeader('メニュー', '設定・このアプリについて');
+    const installSection = deferredInstallPrompt
+      ? `<div class="msec">インストール</div>
+    <div class="mrow first" id="install-row"><span class="mi" aria-hidden="true">📲</span><div class="col"><span>ホーム画面に追加</span><span class="desc">アプリのようにすぐ開けます</span></div><button class="btn-install" type="button">追加</button></div>`
+      : '';
     app.innerHTML = `
-      <div class="msec">あなた向け</div>
-      <div class="mrow first"><span class="mi" aria-hidden="true">🎯</span><div class="col"><span>自分に合ったテーマに絞る</span><span class="desc">例：Geminiだけ・ビジネス活用だけ など</span></div><span class="soon">準備中</span></div>
-      <div class="mrow last"><span class="mi" aria-hidden="true">🔔</span><span>新着のお知らせ</span><span class="ma">準備中</span></div>
-      <div class="msec">表示</div>
-      <div class="mrow first"><span class="mi" aria-hidden="true">🌙</span><span>テーマ</span><span class="ma">ダーク</span></div>
-      <div class="mrow last"><span class="mi" aria-hidden="true">🔠</span><span>文字サイズ</span><span class="ma">標準</span></div>
-      <div class="msec">このアプリについて</div>
-      <div class="mrow solo"><span class="mi" aria-hidden="true">ℹ️</span><div class="col"><span>AIニュースダイジェスト</span><span class="desc">英語と専門用語を読まずに、今週の動きがわかるアプリ</span></div></div>
-      <div class="caption"><span aria-hidden="true">📅</span><span>月・水・金の朝に自動で更新。ホーム画面から最新のダイジェストを確認できます。</span></div>`;
+  ${installSection}
+  <div class="msec">あなた向け</div>
+  <div class="mrow first"><span class="mi" aria-hidden="true">🎯</span><div class="col"><span>自分に合ったテーマに絞る</span><span class="desc">例：Geminiだけ・ビジネス活用だけ など</span></div><span class="soon">準備中</span></div>
+  <div class="mrow last"><span class="mi" aria-hidden="true">🔔</span><span>新着のお知らせ</span><span class="ma">準備中</span></div>
+  <div class="msec">表示</div>
+  <div class="mrow first"><span class="mi" aria-hidden="true">🌙</span><span>テーマ</span><span class="ma">ダーク</span></div>
+  <div class="mrow last"><span class="mi" aria-hidden="true">🔠</span><span>文字サイズ</span><span class="ma">標準</span></div>
+  <div class="msec">このアプリについて</div>
+  <div class="mrow solo"><span class="mi" aria-hidden="true">ℹ️</span><div class="col"><span>AIニュースダイジェスト</span><span class="desc">英語と専門用語を読まずに、今週の動きがわかるアプリ</span></div></div>
+  <div class="caption"><span aria-hidden="true">📅</span><span>月・水・金の朝に自動で更新。ホーム画面から最新のダイジェストを確認できます。</span></div>`;
+    const installBtn = document.getElementById('install-row')?.querySelector('.btn-install');
+    if (installBtn && deferredInstallPrompt) {
+      installBtn.addEventListener('click', async () => {
+        deferredInstallPrompt.prompt();
+        const { outcome } = await deferredInstallPrompt.userChoice;
+        if (outcome === 'accepted') deferredInstallPrompt = null;
+        renderMenu();
+      });
+    }
   }
 
   function route() {
