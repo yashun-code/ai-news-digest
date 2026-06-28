@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-06-29",
+      "title": "React フックの基本を学ぶ",
+      "theme": "フック",
+      "summary": "React フックで関数型コンポーネントに状態管理を加える方法",
+      "file": "tips/2026-06-29.md"
+    },
+    {
       "date": "2026-06-27",
       "title": "Claude Codeの指示書を作ろう",
       "theme": "MEMORY・CLAUDE.md",

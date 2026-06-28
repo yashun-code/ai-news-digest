@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-06-29",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Mythos 5復活／OpenAI Codexの急速な普及／Geminiのコンピュータ操作機能／アリババの蒸留不正疑惑",
+      "file": "digests/2026-06-29.md"
+    },
+    {
       "date": "2026-06-27",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Tag / GPT-5.6 / Gemini教育AI / AIエージェント / Grok規制",
