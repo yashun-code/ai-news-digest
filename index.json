@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-07-01",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Sonnet 5 / Codex 急拡大 / Grok 4.5 内部テスト / Gemini 新モデル / AIエージェント規制議論",
+      "file": "digests/2026-07-01.md"
+    },
+    {
       "date": "2026-06-29",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Mythos 5復活／OpenAI Codexの急速な普及／Geminiのコンピュータ操作機能／アリババの蒸留不正疑惑",

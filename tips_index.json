@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-07-01",
+      "title": "Claude Codeの指示方法を使い分ける",
+      "theme": "計画モード",
+      "summary": "Claude Codeに7つの方法で指示を出し、効率よくコード生成する",
+      "file": "tips/2026-07-01.md"
+    },
+    {
       "date": "2026-06-29",
       "title": "React フックの基本を学ぶ",
       "theme": "フック",
