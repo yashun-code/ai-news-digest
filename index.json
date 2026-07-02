@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-07-03",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Sonnet 5・Grok 4.5／Gemini Spark macOS対応／xAI音声エージェント",
+      "file": "digests/2026-07-03.md"
+    },
+    {
       "date": "2026-07-01",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Sonnet 5 / Codex 急拡大 / Grok 4.5 内部テスト / Gemini 新モデル / AIエージェント規制議論",

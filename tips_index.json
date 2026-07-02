@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-07-03",
+      "title": "Claude Codeのオートメモリ機能を使い始める",
+      "theme": "オートメモリ",
+      "summary": "Claude Codeが自動で会話の流れを記憶し、コンテキストを保つしくみ",
+      "file": "tips/2026-07-03.md"
+    },
+    {
       "date": "2026-07-01",
       "title": "Claude Codeの指示方法を使い分ける",
       "theme": "計画モード",
