@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-07-08",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude内部に意識領域を発見／Claudeのモバイル化進行／Grok音声エージェント本格始動",
+      "file": "digests/2026-07-08.md"
+    },
+    {
       "date": "2026-07-06",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Science発表／Codex緊急対応／Gemini Omni Flash公開／xAI音声エージェント登場／エージェントAIの電力問題",
