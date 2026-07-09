@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-07-10",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Code刷新／ChatGPT Work発表・Codex統合／Grok 4.5公開／Gemini 3.5延期／エージェントAI急速展開",
+      "file": "digests/2026-07-10.md"
+    },
+    {
       "date": "2026-07-08",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude内部に意識領域を発見／Claudeのモバイル化進行／Grok音声エージェント本格始動",

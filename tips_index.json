@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-07-10",
+      "title": "プラグイン・Marketplaceで機能を拡張する",
+      "theme": "プラグイン・Marketplace",
+      "summary": "Marketplaceからプラグインを発見・インストールし、チームで共有する方法",
+      "file": "tips/2026-07-10.md"
+    },
+    {
       "date": "2026-07-08",
       "title": "複数ブランチで同時作業する方法",
       "theme": "Worktrees・並行開発",
