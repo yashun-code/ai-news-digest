@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-07-13",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Fable 5・GPT-5.6／ChatGPT Work登場／Grok 4.5公開",
+      "file": "digests/2026-07-13.md"
+    },
+    {
       "date": "2026-07-10",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Code刷新／ChatGPT Work発表・Codex統合／Grok 4.5公開／Gemini 3.5延期／エージェントAI急速展開",
