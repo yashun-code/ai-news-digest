@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-07-15",
+      "title": "React フックの基本を学ぶ",
+      "theme": "フック",
+      "summary": "React の useState と useEffect で状態管理と副作用処理の基礎をマスター",
+      "file": "tips/2026-07-15.md"
+    },
+    {
       "date": "2026-07-13",
       "title": "Claude Code の最新機能を理解する",
       "theme": "MEMORY・CLAUDE.md",

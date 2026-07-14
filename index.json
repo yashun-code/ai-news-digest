@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-07-15",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude教育機関向け無償化／ChatGPT Work統合＆制限撤廃／Grok 4.5低価格化／自律型AIエージェント拡大／Gemini訴訟",
+      "file": "digests/2026-07-15.md"
+    },
+    {
       "date": "2026-07-13",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Fable 5・GPT-5.6／ChatGPT Work登場／Grok 4.5公開",
