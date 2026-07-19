@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-07-20",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Fable 5の上位プラン統合／Codex Microキーボード発売／Gemini Sparkの日本展開／Grok Buildオープンソース化",
+      "file": "digests/2026-07-20.md"
+    },
+    {
       "date": "2026-07-17",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude教育無料化／OpenAI Codex リセット廃止／Gemini遅延報道／Grok Build セキュリティ問題／AIエージェント活用広がる",

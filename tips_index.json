@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-07-20",
+      "title": "バンドルスキルで効率的にコード改善",
+      "theme": "バンドルスキル（/code-review・/debug）",
+      "summary": "/code-reviewと/debugを組み合わせて、コード品質を一気に向上させる方法",
+      "file": "tips/2026-07-20.md"
+    },
+    {
       "date": "2026-07-17",
       "title": "計画モードの使い方",
       "theme": "計画モード",
