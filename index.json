@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-07-22",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Fable 5標準搭載／Gemini新モデル発表／AIエージェント拡大／OpenAI 1000万ユーザー突破／訴訟相次ぐ",
+      "file": "digests/2026-07-22.md"
+    },
+    {
       "date": "2026-07-20",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Fable 5の上位プラン統合／Codex Microキーボード発売／Gemini Sparkの日本展開／Grok Buildオープンソース化",
