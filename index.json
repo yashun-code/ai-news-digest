@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-07-24",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude新機能続々／Codex障害対策／Gemini低価格版／Grok 4.6準備／AIエージェント企業化",
+      "file": "digests/2026-07-24.md"
+    },
+    {
       "date": "2026-07-22",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Fable 5標準搭載／Gemini新モデル発表／AIエージェント拡大／OpenAI 1000万ユーザー突破／訴訟相次ぐ",
