@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-07-27",
+      "title": "Claude Codeでスキルを作る",
+      "theme": "スキル（Skills）",
+      "summary": "Claude Codeの新機能「スキル」で、繰り返し使える自動化タスクを作成する",
+      "file": "tips/2026-07-27.md"
+    },
+    {
       "date": "2026-07-24",
       "title": "Git Worktreeで複数ブランチを同時に開発する",
       "theme": "Worktrees・並行開発",
