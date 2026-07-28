@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-07-29",
+      "title": "Claude Codeの基本を学ぶ",
+      "theme": "MEMORY・CLAUDE.md",
+      "summary": "Claude Codeの概要と初心者向け実行ガイド",
+      "file": "tips/2026-07-29.md"
+    },
+    {
       "date": "2026-07-27",
       "title": "Claude Codeでスキルを作る",
       "theme": "スキル（Skills）",
