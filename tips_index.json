@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-07-31",
+      "title": "フックを使ったコード自動化",
+      "theme": "フック",
+      "summary": "Claude Codeでフックを設定して、開発タスクを自動実行する基本",
+      "file": "tips/2026-07-31.md"
+    },
+    {
       "date": "2026-07-29",
       "title": "Claude Codeの基本を学ぶ",
       "theme": "MEMORY・CLAUDE.md",
