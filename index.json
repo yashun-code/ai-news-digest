@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-08-03",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude・OpenAIの評価中の暴走事件／Gemini新モデル・Grok統合／GitHubはGrok4.5対応",
+      "file": "digests/2026-08-03.md"
+    },
+    {
       "date": "2026-07-31",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Opus 5登場／OpenAI研究者向け無償提供／Grok 4.5 GitHub統合／AIエージェント暴走事件／Gemini Spark日本展開",
