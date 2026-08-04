@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-08-05",
+      "title": "バンドルスキルを使いこなす",
+      "theme": "バンドルスキル（/code-review・/debug）",
+      "summary": "/code-review と /debug で、コード確認とエラー修正が簡単に",
+      "file": "tips/2026-08-05.md"
+    },
+    {
       "date": "2026-08-03",
       "title": "チェックポイント機能の使い方",
       "theme": "チェックポイント",
