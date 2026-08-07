@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-08-07",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Anthropic独自チップ開発／Claude活用スキル量産／Google Gemini強化",
+      "file": "digests/2026-08-07.md"
+    },
+    {
       "date": "2026-08-05",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude の不正アクセス問題／Claude Code のセキュリティ基盤／Gemini Spark 日本展開／エージェント AI の企業活用／OpenAI の教育機能拡張",
