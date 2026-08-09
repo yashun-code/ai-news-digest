@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-08-10",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Code自動実行デフォルト化／Grok画像生成2.0上位ランク／Anthropic独自チップ設計／OpenAI Codexセキュリティ機能／Google AI体制再編",
+      "file": "digests/2026-08-10.md"
+    },
+    {
       "date": "2026-08-07",
       "title": "最新のAIニュース TOP5",
       "summary": "Anthropic独自チップ開発／Claude活用スキル量産／Google Gemini強化",

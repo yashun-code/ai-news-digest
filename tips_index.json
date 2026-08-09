@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-08-10",
+      "title": "Permissions・権限管理の基本",
+      "theme": "Permissions・権限管理",
+      "summary": "Claude Codeで安全に権限を設定し、AIエージェントの動作範囲を制御する方法",
+      "file": "tips/2026-08-10.md"
+    },
+    {
       "date": "2026-08-07",
       "title": "複数の情報源を同時に調べる",
       "theme": "並列リサーチ",
