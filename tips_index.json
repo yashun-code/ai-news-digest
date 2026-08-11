@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-08-12",
+      "title": "Claude Codeのオートモード",
+      "theme": "スキル（Skills）",
+      "summary": "Claude Codeのオートモードを有効にして、コマンド承認を自動化するスキル",
+      "file": "tips/2026-08-12.md"
+    },
+    {
       "date": "2026-08-10",
       "title": "Permissions・権限管理の基本",
       "theme": "Permissions・権限管理",
