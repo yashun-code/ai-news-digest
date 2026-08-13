@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-08-14",
+      "title": "Claude Code オートモード入門",
+      "theme": "MEMORY・CLAUDE.md",
+      "summary": "8月14日から始まる「オートモード」でコマンド実行が自動承認される仕組みを学ぶ",
+      "file": "tips/2026-08-14.md"
+    },
+    {
       "date": "2026-08-12",
       "title": "Claude Codeのオートモード",
       "theme": "スキル（Skills）",
