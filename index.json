@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-08-17",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude透かし技術 / OpenAI Codex大躍進 / Grok Bot自律エージェント / Gemini Flash高速更新 / AI企業の収益競争激化",
+      "file": "digests/2026-08-17.md"
+    },
+    {
       "date": "2026-08-14",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude透かし機能搭載／Gemini 3.7Flash登場／Grok Bot自律稼働／OpenAILinux対応／リーマン予想進展",

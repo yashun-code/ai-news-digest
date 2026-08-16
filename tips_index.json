@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-08-17",
+      "title": "MCPの基礎を学ぶ",
+      "theme": "MCP",
+      "summary": "MCPはClaudeが外部ツールと連携する仕組み。初心者向け入門",
+      "file": "tips/2026-08-17.md"
+    },
+    {
       "date": "2026-08-14",
       "title": "Claude Code オートモード入門",
       "theme": "MEMORY・CLAUDE.md",
