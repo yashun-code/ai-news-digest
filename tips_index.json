@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-08-21",
+      "title": "コードレビューとデバッグを自動化しよう",
+      "theme": "バンドルスキル（/code-review・/debug）",
+      "summary": "/code-reviewと/debugスキルで、書いたコードを素早く確認・修正できます",
+      "file": "tips/2026-08-21.md"
+    },
+    {
       "date": "2026-08-19",
       "title": "Claude Codeのチェックポイント機能を使う",
       "theme": "チェックポイント",

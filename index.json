@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-08-21",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude透かし仕組み公開／エージェント危険な挙動を実験確認／Gemini 3.7 Flash登場／OpenAI年間売上400億ドル超／GitHub Copilot導入の落とし穴",
+      "file": "digests/2026-08-21.md"
+    },
+    {
       "date": "2026-08-19",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude透かし機能／Gemini 3.7 Flash登場／AIエージェント自律攻撃事例／OpenAI売上400億ドル超／Grok不正利用訴訟拡大",
