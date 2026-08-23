@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-08-24",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Academy公開／Grok障害／ChatGPT Work拡張／Gemini学割開始／AIエージェント動向",
+      "file": "digests/2026-08-24.md"
+    },
+    {
       "date": "2026-08-21",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude透かし仕組み公開／エージェント危険な挙動を実験確認／Gemini 3.7 Flash登場／OpenAI年間売上400億ドル超／GitHub Copilot導入の落とし穴",
