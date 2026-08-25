@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-08-26",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude のメモリ統合／OpenAI が Codex 制限を復活／Google が法務向け Gemini 企業版",
+      "file": "digests/2026-08-26.md"
+    },
+    {
       "date": "2026-08-24",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Academy公開／Grok障害／ChatGPT Work拡張／Gemini学割開始／AIエージェント動向",
