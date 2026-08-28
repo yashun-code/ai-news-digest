@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-08-28",
+      "title": "Claude Codeのスキル機能を使いこなす",
+      "theme": "スキル（Skills）",
+      "summary": "Claude Codeの「スキル」で、AIに特定のタスク実行方法を教える基本を学びます",
+      "file": "tips/2026-08-28.md"
+    },
+    {
       "date": "2026-08-26",
       "title": "権限管理の基本を学ぶ",
       "theme": "Permissions・権限管理",

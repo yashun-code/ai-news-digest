@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-08-28",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Cowork・Gemini動画生成／Codex使用量制限／AIエージェント暴走対策",
+      "file": "digests/2026-08-28.md"
+    },
+    {
       "date": "2026-08-26",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude のメモリ統合／OpenAI が Codex 制限を復活／Google が法務向け Gemini 企業版",
