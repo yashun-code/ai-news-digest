@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-08-31",
+      "title": "サブエージェントの基本",
+      "theme": "サブエージェント",
+      "summary": "Claude Codeで複数タスクを効率的に処理する、サブエージェント機能の使い方",
+      "file": "tips/2026-08-31.md"
+    },
+    {
       "date": "2026-08-28",
       "title": "Claude Codeのスキル機能を使いこなす",
       "theme": "スキル（Skills）",
