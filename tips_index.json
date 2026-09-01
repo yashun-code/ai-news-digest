@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-09-02",
+      "title": "MCPでClaudeの力を広げよう",
+      "theme": "MCP",
+      "summary": "MCPは、Claudeを他のツールやサービスと繋ぐ仕組みです",
+      "file": "tips/2026-09-02.md"
+    },
+    {
       "date": "2026-08-31",
       "title": "サブエージェントの基本",
       "theme": "サブエージェント",

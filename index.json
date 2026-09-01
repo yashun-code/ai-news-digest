@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-09-02",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude のセキュリティ問題公表／Salesforce との戦略提携／Grok Bot 無料化／Google の法務 AI 参入／Gemini 動画 AI 強化",
+      "file": "digests/2026-09-02.md"
+    },
+    {
       "date": "2026-08-31",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Academy無料公開／Claude Code使用量調整／OpenAI Codexバグ修正／NEC SCM AIエージェント販売開始／Gemini新機能拡充",
