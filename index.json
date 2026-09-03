@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-09-04",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude新版・透かしツール／Gemini 3.8 Flash／ChatGPT障害とAstra／エージェントAI拡大",
+      "file": "digests/2026-09-04.md"
+    },
+    {
       "date": "2026-09-02",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude のセキュリティ問題公表／Salesforce との戦略提携／Grok Bot 無料化／Google の法務 AI 参入／Gemini 動画 AI 強化",
