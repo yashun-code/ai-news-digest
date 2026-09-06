@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-09-07",
+      "title": "ターミナルからAIを1回実行する",
+      "theme": "CLIワンショット・GitHub Actions",
+      "summary": "claude -p でワンショット実行、GitHub Actionsで自動化する基本",
+      "file": "tips/2026-09-07.md"
+    },
+    {
       "date": "2026-09-04",
       "title": "チェックポイントで安全に進める",
       "theme": "チェックポイント",
