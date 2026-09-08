@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-09-09",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Fable 5.1のコスト削減／GPT-6 Astra登場／Grok企業向けエージェント／NECの無人部署化／セキュリティ対応",
+      "file": "digests/2026-09-09.md"
+    },
+    {
       "date": "2026-09-07",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Fable 5.1登場・コスト45%削減／Gemini 3.8 Flash公開／GPT-6 Astra発表／AIエージェント実装加速／大規模障害相次ぐ",
