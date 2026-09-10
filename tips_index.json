@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-09-11",
+      "title": "Permissions・権限管理の基本",
+      "theme": "Permissions・権限管理",
+      "summary": "Claude Codeで実行権限を制限し、安全な自動コーディング環境を作ろう",
+      "file": "tips/2026-09-11.md"
+    },
+    {
       "date": "2026-09-09",
       "title": "使い方",
       "theme": "エージェントチェーン",
