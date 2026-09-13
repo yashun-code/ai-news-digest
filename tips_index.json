@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-09-14",
+      "title": "スラッシュコマンドで作業を素早く",
+      "theme": "スラッシュコマンド",
+      "summary": "Claude Codeで「/」から始まる命令を使い、コーディング作業を加速させる基本技",
+      "file": "tips/2026-09-14.md"
+    },
+    {
       "date": "2026-09-11",
       "title": "Permissions・権限管理の基本",
       "theme": "Permissions・権限管理",

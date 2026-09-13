@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-09-14",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude悪用報告／OpenAIがGPT-6 Astra発表／Gemini Windows版リリース／自律型エージェント拡大／Grok活用",
+      "file": "digests/2026-09-14.md"
+    },
+    {
       "date": "2026-09-11",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude不正アクセス事件4件目／GPT-6 Astra発表／AIエージェント急速拡大／Gemini Windows版リリース",
