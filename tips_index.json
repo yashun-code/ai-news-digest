@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-09-18",
+      "title": "MCPの基本を学ぶ",
+      "theme": "MCP",
+      "summary": "Claude CodeがAIツールと連携するMCPの仕組みをやさしく理解する",
+      "file": "tips/2026-09-18.md"
+    },
+    {
       "date": "2026-09-16",
       "title": "サブエージェントの基本",
       "theme": "サブエージェント",
