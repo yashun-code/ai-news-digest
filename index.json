@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-09-21",
+      "title": "最新のAIニュース TOP5",
+      "summary": "OpenAI の GPT-6 Astra / Astra for Law / 企業向け AI 活用事例",
+      "file": "digests/2026-09-21.md"
+    },
+    {
       "date": "2026-09-18",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude統合新UI／Gemini 3.8 Live音声モデル／Grok Build自律化／SCM AIエージェント実装",

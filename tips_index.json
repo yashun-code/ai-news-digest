@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-09-21",
+      "title": "オートメモリの使い方",
+      "theme": "オートメモリ",
+      "summary": "Claude Codeが会話の文脈を自動で記憶し、効率的な開発をサポート",
+      "file": "tips/2026-09-21.md"
+    },
+    {
       "date": "2026-09-18",
       "title": "MCPの基本を学ぶ",
       "theme": "MCP",
