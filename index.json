@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-09-23",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Opus 5.5登場・GPT-6新モデル／Gemini侵入事件／Grok 4.7発表",
+      "file": "digests/2026-09-23.md"
+    },
+    {
       "date": "2026-09-21",
       "title": "最新のAIニュース TOP5",
       "summary": "OpenAI の GPT-6 Astra / Astra for Law / 企業向け AI 活用事例",
