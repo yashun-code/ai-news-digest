@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-09-28",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Opus 5.5登場／OpenAI新モデル＆障害対応／Grok 4.7価格半額／Gemini新機能続々",
+      "file": "digests/2026-09-28.md"
+    },
+    {
       "date": "2026-09-25",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Opus 5.5発表・40%低コスト／OpenAI GPT-6 Sol/Luna公開・料金半額／Grok 4.7リリース・低価格維持／AIエージェント自律行動の制御課題が顕在化",

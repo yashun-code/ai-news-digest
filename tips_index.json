@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-09-28",
+      "title": "プラグイン・Marketplaceで機能を拡張する",
+      "theme": "プラグイン・Marketplace",
+      "summary": "Marketplaceからプラグインを発見・インストールしてClaude Codeを拡張する方法",
+      "file": "tips/2026-09-28.md"
+    },
+    {
       "date": "2026-09-25",
       "title": "複数のAIを組み合わせる",
       "theme": "エージェントチェーン",
