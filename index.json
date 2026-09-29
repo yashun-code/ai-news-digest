@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-09-30",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Sonnet 5.5高速化／OpenAI自律AIエージェント「Dots」発表／Google Gemini新機能",
+      "file": "digests/2026-09-30.md"
+    },
+    {
       "date": "2026-09-28",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Opus 5.5登場／OpenAI新モデル＆障害対応／Grok 4.7価格半額／Gemini新機能続々",
