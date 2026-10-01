@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-10-02",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude Sonnet 5.5高速化／OpenAI「dot」24時間エージェント／Gemini 4 Argon 100万トークン",
+      "file": "digests/2026-10-02.md"
+    },
+    {
       "date": "2026-09-30",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Sonnet 5.5高速化／OpenAI自律AIエージェント「Dots」発表／Google Gemini新機能",
