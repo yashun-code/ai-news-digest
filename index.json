@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-10-05",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude 3倍高速化・Mod機能／OpenAIの24時間AIエージェント「dots」／Gemini無料ユーザー向けモデル制限／Anthropic1億ドル投資でエンジニア育成／みずほがAIエージェント3万人導入",
+      "file": "digests/2026-10-05.md"
+    },
+    {
       "date": "2026-10-02",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude Sonnet 5.5高速化／OpenAI「dot」24時間エージェント／Gemini 4 Argon 100万トークン",
