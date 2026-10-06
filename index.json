@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-10-07",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude for Google Workspace / OpenAIが電子透かし導入 / みずほが自律AIエージェント / Gemini無料版を機能制限 / Anthropicがスタートアップ支援拡大",
+      "file": "digests/2026-10-07.md"
+    },
+    {
       "date": "2026-10-05",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude 3倍高速化・Mod機能／OpenAIの24時間AIエージェント「dots」／Gemini無料ユーザー向けモデル制限／Anthropic1億ドル投資でエンジニア育成／みずほがAIエージェント3万人導入",
