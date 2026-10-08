@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-10-09",
+      "title": "ターミナルからAIを1回実行する",
+      "theme": "CLIワンショット・GitHub Actions",
+      "summary": "claude コマンドでメッセージを送信し、GitHub Actions で自動実行する方法",
+      "file": "tips/2026-10-09.md"
+    },
+    {
       "date": "2026-10-07",
       "title": "Claude Codeのメモリ機能を使いこなす",
       "theme": "オートメモリ",
