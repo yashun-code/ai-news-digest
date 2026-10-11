@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-10-12",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude新機能／Gemini Agent自律化／OpenAI文章透かし導入／Grok実用化加速",
+      "file": "digests/2026-10-12.md"
+    },
+    {
       "date": "2026-10-09",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude新機能群リリース／OpenAI透かし導入／Google職場向けエージェント発表／みずほ自律AIエージェント導入／セキュリティ企業が大型調達",

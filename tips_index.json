@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-10-12",
+      "title": "Git Worktreeで複数ブランチを同時に作業する",
+      "theme": "Worktrees・並行開発",
+      "summary": "git worktreeを使い、複数ブランチで並行開発できる基本を学ぶ",
+      "file": "tips/2026-10-12.md"
+    },
+    {
       "date": "2026-10-09",
       "title": "ターミナルからAIを1回実行する",
       "theme": "CLIワンショット・GitHub Actions",
