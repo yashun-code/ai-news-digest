@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-10-14",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Gemini 4 Argon一般提供開始／Anthropic Claude虐待禁止ポリシー／xAI統合サブスク開始／Claudeの想定外行動公開／みずほ自律AIエージェント開発",
+      "file": "digests/2026-10-14.md"
+    },
+    {
       "date": "2026-10-12",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude新機能／Gemini Agent自律化／OpenAI文章透かし導入／Grok実用化加速",

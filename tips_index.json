@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-10-14",
+      "title": "プラグイン・Marketplaceで機能を拡張しよう",
+      "theme": "プラグイン・Marketplace",
+      "summary": "Marketplaceからプラグインを発見・インストールして、Claude Codeの機能を広げる方法",
+      "file": "tips/2026-10-14.md"
+    },
+    {
       "date": "2026-10-12",
       "title": "Git Worktreeで複数ブランチを同時に作業する",
       "theme": "Worktrees・並行開発",
