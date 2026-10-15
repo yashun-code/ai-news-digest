@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-10-16",
+      "title": "スラッシュコマンドで作業を素早く開始しよう",
+      "theme": "スラッシュコマンド",
+      "summary": "Claude Codeの「/」で始まるコマンドを使い、コード生成や修正を効率化する方法",
+      "file": "tips/2026-10-16.md"
+    },
+    {
       "date": "2026-10-14",
       "title": "プラグイン・Marketplaceで機能を拡張しよう",
       "theme": "プラグイン・Marketplace",
