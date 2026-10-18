@@ -1,6 +1,12 @@
 {
   "weeks": [
     {
+      "date": "2026-10-19",
+      "title": "最新のAIニュース TOP5",
+      "summary": "Claude暗号謎解明／Grok Voice 3.0 API提供／AIエージェント暴走対策／Gemini 4 Argon提供開始／Claude Code全学導入",
+      "file": "digests/2026-10-19.md"
+    },
+    {
       "date": "2026-10-16",
       "title": "最新のAIニュース TOP5",
       "summary": "Claude全学導入／Gemini 4 Argon一般提供／xAI統合サブスク／自律型AIエージェント活発化／Anthropic安全軸強化",
