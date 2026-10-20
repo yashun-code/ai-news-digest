@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "date": "2026-10-21",
+      "title": "計画モードで効率的にコード作成",
+      "theme": "計画モード",
+      "summary": "Claude Codeの計画モードを使って、大きなタスクを段階的に進める基本",
+      "file": "tips/2026-10-21.md"
+    },
+    {
       "date": "2026-10-19",
       "title": "Claude Codeのフック機能",
       "theme": "フック",
